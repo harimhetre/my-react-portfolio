@@ -5,5 +5,5 @@ module.exports = {
 	images: {
 		domains: ["avatars.githubusercontent.com"],
 	},
-	assetPrefix: isProd ? '/my-react-portfolio/' : ''
+	assetPrefix: isProd ? 'https://harimhetre.github.io/my-react-portfolio/' : ''
 };
