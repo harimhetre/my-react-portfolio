@@ -69,7 +69,7 @@ const Greetings = () => {
                   </div> */}
                 </Col>
                 <Col lg="6">
-                  <GreetingLottie animationPath="/lottie/coding.json" />
+                  <GreetingLottie animationPath="https://assets4.lottiefiles.com/packages/lf20_qlalnbpt.json" />
                 </Col>
               </Row>
             </div>
